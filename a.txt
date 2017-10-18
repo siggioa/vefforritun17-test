@@ -1,1 +1,3 @@
-Halló, heimur
+Hæ, heimur
+
+Hvað segir þú gott?
